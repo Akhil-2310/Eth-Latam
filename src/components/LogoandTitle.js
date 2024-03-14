@@ -11,7 +11,7 @@ function LogoandTitle() {
       />
       <Link to="/">
         <h1 className=" mt-2 text-4xl font-mono title text-gray-800">
-          Simpl-E Vote
+          zK-Vote
         </h1>
       </Link>
     </div>

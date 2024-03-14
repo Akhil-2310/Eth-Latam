@@ -19,7 +19,7 @@ function Footer() {
         <div className=" mr-28 ">
           <LogoandTitle />
         </div>
-        <p className="py-4 ">© 2023 Simpl-E Vote All rights reserved</p>
+        <p className="py-4 ">© 2024 zK-Vote All rights reserved</p>
       </div>
     </div>
   );
